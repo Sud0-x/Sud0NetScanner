@@ -1,0 +1,22 @@
+# Sud0NetScanner Requirements
+# Developed by Sud0-x
+# All modules used are part of Python's standard library
+# No additional packages required
+
+# Standard library modules used:
+# - socket (network connections)
+# - threading (multi-threading support)
+# - argparse (command line argument parsing)
+# - sys (system-specific parameters)
+# - time (time-related functions)
+# - json (JSON data handling)
+# - subprocess (subprocess management)
+# - ipaddress (IP address manipulation)
+# - datetime (date and time handling)
+# - concurrent.futures (high-level interface for asynchronously executing callables)
+# - signal (signal handling)
+# - os (operating system interface)
+
+# For enhanced functionality, you may optionally install:
+# python-nmap==0.7.1  # For advanced nmap integration (optional)
+# scapy==2.4.5        # For advanced packet crafting (optional)
