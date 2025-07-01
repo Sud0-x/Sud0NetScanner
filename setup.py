@@ -21,7 +21,7 @@ setup(
     name="sud0netscanner",
     version="2.0.0",
     author="Sud0-x",
-    author_email="contact@sud0-x.dev",
+    author_email="sud0x.dev@proton.me",
     description="Advanced Network Port Scanner - A sophisticated network reconnaissance tool",
     long_description=read_readme(),
     long_description_content_type="text/markdown",

@@ -18,7 +18,7 @@ Version: 2.0.0
 
 __version__ = "2.0.0"
 __author__ = "Sud0-x"
-__email__ = "contact@sud0-x.dev"
+__email__ = "sud0x.dev@proton.me"
 __description__ = "Advanced Network Port Scanner"
 __url__ = "https://github.com/Sud0-x/Sud0NetScanner"
 

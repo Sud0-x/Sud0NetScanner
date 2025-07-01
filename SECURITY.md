@@ -16,7 +16,7 @@ At Sud0-x, we take security seriously. If you discover a security vulnerability 
 ### How to Report
 
 1. **Do NOT** create a public GitHub issue for security vulnerabilities
-2. Send an email to security@example.com (replace with actual email)
+2. Send an email to sud0x.dev@proton.me
 3. Include detailed information about the vulnerability
 4. Provide steps to reproduce the issue
 5. Include any proof-of-concept code if applicable
@@ -67,7 +67,7 @@ This tool is provided for educational and authorized testing purposes only. User
 ### Contact
 
 For security-related questions or concerns:
-- Security Email: security@example.com
+- Security Email: sud0x.dev@proton.me
 - GitHub: [@Sud0-x](https://github.com/Sud0-x)
 - General Issues: [GitHub Issues](https://github.com/Sud0-x/Sud0NetScanner/issues)
 
